@@ -9,5 +9,8 @@ Và bạn buộc phải chạy trên CMD (command prompt)
 * Khi bạn nhập sai thì nó sẽ in ra NO
 * Còn nếu bạn không biết từ đó có đáp án là gì, thì bạn có thể nhập dấu "?" để có thể in ra đáp án và chuyển sang từ tiếp theo
 * Để kết thúc chương trình thì bạn chỉ cần nhập "done"
+## Code chạy không được
+* Là do bạn chưa thay thể các đường link dẫn trong code để phù hợp với máy của bạn
+* Bạn chỉ cần mở code ra và chỉnh phần link dẫn đến file tuvung.csv là OK
 ### Nếu có bất cứ câu hỏi gì bạn có thể nhắn tôi qua discord
 TK: migu_2008
