@@ -1,6 +1,6 @@
 ## 📚 HELP STUDY NEW LANGUAGE  
 
-## Install C++: https://www.msys2.org/
+## 🔗 Install C++: https://www.msys2.org/
 - ⚠️ You **must** run it on CMD (Command Prompt).  
 
 ## 🛠️ HOW TO USE  
