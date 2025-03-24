@@ -6,9 +6,9 @@
 #include <algorithm>
 
 int main() {
-    std::ifstream file(R"(C:\Users\bichn\OneDrive\Desktop\tuvung.csv)");
+    std::ifstream file(R"(D:\code\tuvung\tuvung.csv)");
     if (!file) {
-        std::cerr << "Không thể mở file!\n";
+        std::cerr << "Can't open file!\n";
         return 1;
     }
 
@@ -43,16 +43,16 @@ int main() {
             std::string answer = show_first ? second_column : first_column;
 
             do {
-                std::cout << "Tu: " << question << "\nNhap nghia: ";
+                std::cout << "Word: " << question << "\nEnter meaning: ";
                 std::getline(std::cin, user_input);
 
                 if (user_input == "done") {
-                    std::cout << "Ket thuc chuong trinh.\n";
+                    std::cout << "End of program.\n";
                     return 0;
                 }
 
                 if (user_input == "?") {
-                    std::cout << "Dap an: " << answer << "\n\n";
+                    std::cout << "Answer: " << answer << "\n\n";
                     combo = 0; // Reset combo khi người dùng yêu cầu đáp án
                     break;
                 }
@@ -62,7 +62,7 @@ int main() {
                     std::cout << "YES!! COMBO: " << combo << "\n\n";
                     break;
                 } else {
-                    std::cout << "NO!! Thu lai.\n\n";
+                    std::cout << "NO!! Try again.\n\n";
                     combo = 0; // Reset combo khi trả lời sai
                 }
             } while (true);
