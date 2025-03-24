@@ -1,16 +1,24 @@
-HELP STUDY NEW LANGUAGE
-### Code này của tôi chạy bằng ngôn ngữ C++
-* Và bạn buộc phải chạy trên CMD (command prompt)
-## Cách sử dụng
-* Khi nó in ra 1 từ, thì bạn sẽ nhập nghĩa của nó
-* Những cái từ đó sẽ được lấy ra từ file tuvung.csv
-* Bạn có thể thay đổi file tuvung.csv
-* Khi bạn nhập đúng thì nó sẽ in ra YES, vào COMBO(số lần đúng liên tiếp)
-* Khi bạn nhập sai thì nó sẽ in ra NO
-* Còn nếu bạn không biết từ đó có đáp án là gì, thì bạn có thể nhập dấu "?" để có thể in ra đáp án và chuyển sang từ tiếp theo
-* Để kết thúc chương trình thì bạn chỉ cần nhập "done"
-## Code chạy không được
-* Là do bạn chưa thay thể các đường link dẫn trong code để phù hợp với máy của bạn
-* Bạn chỉ cần mở code ra và chỉnh phần link dẫn đến file tuvung.csv là OK
-### Nếu có bất cứ câu hỏi gì bạn có thể nhắn tôi qua discord
-* TK: migu_2008
+## 📚 HELP STUDY NEW LANGUAGE  
+
+## 🚀 This code runs in C++.  
+- ⚠️ You **must** run it on CMD (Command Prompt).  
+
+## 🛠️ HOW TO USE  
+- The program prints a word, and you enter its meaning.  
+- The words are taken from the **tuvung.csv** file.  
+- You can modify the **tuvung.csv** file to use your own words.  
+- If your answer is **correct**, the program prints **YES** and updates your **COMBO** (consecutive correct answers).  
+- If your answer is **wrong**, the program prints **NO**.  
+- If you **don't know** the answer, type **"?"** to reveal it and move to the next word.  
+- To **exit** the program, type **"done"**.   
+
+## ⚠️ TROUBLESHOOTING  
+- If the code doesn't run, it's likely because the file paths are incorrect.  
+- Open the code and update the path to **tuvung.csv** to match your system.    
+
+## 📩 NEED HELP?  
+- Feel free to DM me on Discord!  
+- Username: migu_2008
+
+## HAVE FUN!
+- Follow my github profile for more :3
