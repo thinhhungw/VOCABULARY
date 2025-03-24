@@ -1,7 +1,7 @@
 ## 📚 HELP STUDY NEW LANGUAGE  
 
 ## 🔗 Install C++: https://www.msys2.org/
-- ⚠️ You **must** run it on CMD (Command Prompt).  
+- You **must** run it on CMD (Command Prompt).  
 
 ## 🛠️ HOW TO USE  
 - The program prints a word, and you enter its meaning.  
