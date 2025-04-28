@@ -3,10 +3,10 @@
 #include <string>
 
 int main() {
-    std::ofstream file(R"(D:\code\tuvung\tuvung.csv)", std::ios::app); // Open in append mode
+    std::ofstream file(R"(D:\code\tuvung\vocabulary.csv)", std::ios::app); // Updated file name // Open in append mode
 
     if (!file) {
-        std::cerr << "Can't open tuvung.csv for appending!\n";
+        std::cerr << "Can't open vocabulary.csv for appending!\n"; // Updated error message
         return 1;
     }
 
