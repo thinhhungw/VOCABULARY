@@ -27,7 +27,7 @@
 - Username: migu_2008
 
 ## 🎬 VIDEO WILL HELP YOU SETUP
-- https://drive.google.com/file/d/1YyBvqH0Kj893-7eiWRC0MdgNPic2lmZn/view?usp=sharing
+- 
 
 ## 🎉 HAVE FUN!
 - Follow my github profile for more :3
